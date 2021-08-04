@@ -17,7 +17,7 @@ public class CreateForwardeAuctionMultipleRank extends BidProcMethods  {
 	void setReportDetails() {
 		testcaseName = "Create New Forward eAuction - Multiple Rank";
 		testDescription = "Create New Forward eAuction - Multiple Rank";
-		authors = "Kiruthivasan";
+		authors = "Dhivya";
 		category = "Smoke";
 		excelFileName = "CreateForwardeAuctionMultipleRank";
 	}
