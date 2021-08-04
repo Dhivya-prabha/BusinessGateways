@@ -14,7 +14,7 @@ public class CancelScheduledFwdEAuction extends BidProcMethods {
 	void setReportDetails() {
 		testcaseName = "CancelScheduledFwdEAuction";
 		testDescription = "CancelScheduledEAuction";
-		authors = "Kiruthivasan";
+		authors = "Dhivya";
 		category = "Smoke";
 	}
 
