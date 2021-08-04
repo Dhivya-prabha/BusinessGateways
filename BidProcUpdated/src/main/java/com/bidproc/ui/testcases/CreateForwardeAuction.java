@@ -16,7 +16,7 @@ public class CreateForwardeAuction extends BidProcMethods {
 	void setReportDetails() {
 		testcaseName = "Create Forward eAuction";
 		testDescription = "Create Forward eAuction";
-		authors = "Kiruthivasan";
+		authors = "Dhivya";
 		category = "Smoke";
 		excelFileName = "CreateForwardeAuction";
 	}
