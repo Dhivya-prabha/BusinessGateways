@@ -17,7 +17,7 @@ public class CreateReverseAuctionMultipleStandard extends BidProcMethods  {
 	void setReportDetails() {
 		testcaseName = "Create New reverse eAuction - Multiple standard Rank";
 		testDescription = "Create New reverse eAuction - Multiple standard Rank";
-		authors = "Kiruthivasan";
+		authors = "Dhivya";
 		category = "Smoke";
 		excelFileName = "CreateReverseAuctionMultipleStandard";
 	}
