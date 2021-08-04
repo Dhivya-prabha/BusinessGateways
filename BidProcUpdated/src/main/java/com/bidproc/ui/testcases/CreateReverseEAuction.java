@@ -16,7 +16,7 @@ public class CreateReverseEAuction extends BidProcMethods {
 	void setReportDetails() {
 		testcaseName = "Create Reverse eAuction";
 		testDescription = "Create Reverse eAuction";
-		authors = "Kiruthivasan";
+		authors = "Dhivya";
 		category = "Smoke";
 		excelFileName = "CreateReverseEAuction";
 	}
