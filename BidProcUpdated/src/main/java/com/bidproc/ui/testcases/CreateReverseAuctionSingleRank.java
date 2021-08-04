@@ -17,7 +17,7 @@ public class CreateReverseAuctionSingleRank extends BidProcMethods  {
 	void setReportDetails() {
 		testcaseName = "Create New reverse eAuction - Single Rank";
 		testDescription = "Create New reverse eAuction - Single Rank";
-		authors = "Kiruthivasan";
+		authors = "Dhivya";
 		category = "Smoke";
 		excelFileName = "CreateReverseAuctionSingleRank";
 	}
