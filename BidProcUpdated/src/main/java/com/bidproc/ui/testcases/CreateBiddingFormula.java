@@ -16,7 +16,7 @@ public class CreateBiddingFormula extends BidProcMethods {
 	void setReportDetails() {
 		testcaseName = "Create Bidding Formula";
 		testDescription = "Creaet Bidding Formula";
-		authors = "Hari";
+		authors = "Dhivya";
 		category = "Smoke";
 	}
 
