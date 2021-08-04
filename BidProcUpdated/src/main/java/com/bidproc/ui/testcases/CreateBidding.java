@@ -16,7 +16,7 @@ public class CreateBidding extends BidProcMethods {
 	void setReportDetails() {
 		testcaseName = "CreateBidding";
 		testDescription = "CreateBidding";
-		authors = "Hari";
+		authors = "Dhivya";
 		category = "Smoke";
 		excelFileName = "CreateBidding";
 	}
